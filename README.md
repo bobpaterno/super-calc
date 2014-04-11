@@ -1,10 +1,13 @@
-# client-template
+# super-calc
 
-Serves as a template for client JavaScript applications.
+This is a Super Calculator
 
-It uses:
-* Jade
-* Less
-* Grunt
-* JSHint
-* Node.js
+It has the following features:
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Square root
+* Power
+* Factorial
+* Summation
